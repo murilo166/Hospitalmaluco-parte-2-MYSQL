@@ -34,7 +34,7 @@ Use ferramentas, como ERPlus, Lucidchart, draw.io (via web) e MySQL Workbench, o
 
 Importante: desse modelo já vamos para a etapa lógica da nossa modelagem!
 
-##codigo criado
+## codigo criado
 create database if not exists hospitalmaluco;
 
 use hospitalmaluco;
@@ -206,7 +206,7 @@ values(1,"juliana","rua da sorte",'04-01-02',411474148,"juliana@junbs.con",1,1,1
 
 
 
-##Ferrmenta utilizadas
+## Ferrmenta utilizadas
 
 ##mysql workbench
 
