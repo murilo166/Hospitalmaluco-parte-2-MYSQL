@@ -1,4 +1,4 @@
-# HospitalmalucoMYSQL
+# Hospitalmaluco parte2 MYSQL
 Neste projeto proposto chamado "hospitalmaluco"proposto pelo meu professor criei o banco de dados apartir da modelagem do sistema feito anteriormente
 
 ## descriçâo do projeto
